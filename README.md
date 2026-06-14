@@ -179,7 +179,7 @@ The OpenCV preprocessing pipeline significantly improved prediction performance 
 
 Input Image
 
-→ ![Uploaded Image](uploaded_image.png)
+→ ![Uploaded Image](uploaded_image.jpeg)
 Handwritten Digit Written on Paper
 
 ↓
